@@ -10,12 +10,12 @@ export function StickyNavbar() {
 
   const navItems = [
     { name: "HOME", href: "#home" },
+    { name: "TOUR", href: "#tour" },
     { name: "NEWS", href: "#news" },
     { name: "BAND", href: "#band" },
-    { name: "TOUR", href: "#tour" },
     { name: "MUSIC", href: "#music" },
-    { name: "MERCH", href: "#merch" },
-    { name: "CONTACT", href: "#contact" },
+    // { name: "MERCH", href: "#merch" },
+    // { name: "CONTACT", href: "#contact" },
   ]
 
   useEffect(() => {

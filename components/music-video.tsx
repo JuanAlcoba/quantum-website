@@ -18,7 +18,7 @@ export function MusicVideo() {
               height="100%"
               src="https://www.youtube.com/embed/hzc5myxDz9o?si=Kzq24k2P5xZkRcGi"
               title="YouTube video player"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
             <div className="absolute inset-0 bg-black/10 flex items-center justify-center">
               <button className="bg-primary hover:bg-primary/90 rounded-full p-6 transition-colors">
                 <Play className="h-12 w-12 text-primary-foreground ml-1" />

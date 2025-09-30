@@ -5,6 +5,7 @@ import { TourDates } from "@/components/tour-dates"
 import { MusicVideo } from "@/components/music-video"
 import { News } from "@/components/news"
 import { Footer } from "@/components/footer"
+import { About } from "@/components/about"
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
       <Hero />
       <TourDates />
       <MusicVideo />
+      <About />
       <News />
       <Footer />
     </main>
