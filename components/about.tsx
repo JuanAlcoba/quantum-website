@@ -58,9 +58,6 @@ export function About() {
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti, animi exercitationem et velit 
                 eveniet reprehenderit nisi quam provident, quasi ea autem recusandae. Perferendis corporis tenetur 
                 illo veniam quis deleniti dolore.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti, animi exercitationem et velit 
-                eveniet reprehenderit nisi quam provident, quasi ea autem recusandae. Perferendis corporis tenetur 
-                illo veniam quis deleniti dolore.
                 </p>
               </div>
             </Card>
